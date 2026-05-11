@@ -6,7 +6,7 @@ This repository contains the official implementation of the **Integrated Viral P
 
 The framework distinguishes between **endogenous (organic growth)** and **exogenous (shock-driven)** cultural phenomena using multi-platform time series data (Spotify, YouTube, Google Trends).
 
-## 🚀 Project Overview
+## Project Overview
 
 The IVPM is a hybrid computational framework that maps the full lifecycle of digital music assets. It combines:
 - PCA-based **CP-PSI** (Cross-Platform Parasocial Synchronization Index)
