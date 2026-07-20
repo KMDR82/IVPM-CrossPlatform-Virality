@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "IVPM-EW: Causal Early Warning for Digital Music Virality Under Chart Censoring"
+authors:
+  - family-names: "Akkaya"
+    given-names: "Ahmet"
+year: 2026
+url: "https://github.com/KMDR82/IVPM-CrossPlatform-Virality"
