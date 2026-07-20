@@ -1,0 +1,9 @@
+case,model,R2,MAE
+Simge (endo),SVR,-0.3,3.371
+Simge (endo),RF,-0.075,3.749
+Simge (endo),Ridge,-0.199,4.445
+Simge (endo),Naive,-0.28,3.161
+Kate Bush (exo),SVR,0.31,0.779
+Kate Bush (exo),RF,-0.001,1.166
+Kate Bush (exo),Ridge,-0.113,1.517
+Kate Bush (exo),Naive,0.289,0.723

@@ -1,0 +1,3 @@
+case,truth,ignition,regime_rise,rise_ratio,regime_logreg,regime_gbm,lead_to_peak_mo
+Simge - Askin Olayim,endogenous,2022-09-01,endogenous,0.598,endogenous,endogenous,9
+Kate Bush - RUTH,exogenous,2022-06-01,exogenous,1.0,endogenous,endogenous,0
