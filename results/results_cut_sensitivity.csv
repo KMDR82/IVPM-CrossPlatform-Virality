@@ -1,0 +1,6 @@
+cut,acc_mean,acc_std,simge,katebush
+0.5,74.30720131456454,1.8464934862543436,WRONG (exo),correct (exo)
+0.55,78.7183696170235,1.5428384124877468,WRONG (exo),correct (exo)
+0.6,84.29798905787814,1.8008344777951588,correct (endo),correct (exo)
+0.65,88.67330902125425,1.6417173972595946,correct (endo),correct (exo)
+0.7,91.71339913100913,1.5305044323754367,correct (endo),correct (exo)
