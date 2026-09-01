@@ -32,7 +32,7 @@ Four real-world cases spanning three catalyst types and a 42–91 % censoring ra
 
 | Track | Catalyst | Ignition | Regime | SP censoring | Role |
 |---|---|---|---|---|---|
-| Simge — Aşkın Olayım | Icardi (Aug–Sep 2022) | 2022-09 | endogenous | 69 % | dev. |
+| Simge — Askin Olayim | Icardi (Aug–Sep 2022) | 2022-09 | endogenous | 69 % | dev. |
 | Kate Bush — Running Up That Hill | Stranger Things S4 (May 2022) | 2022-06 | exogenous | 76 % | dev. |
 | Metallica — Master of Puppets | Stranger Things S4 (May 2022) | 2022-08 | exogenous | 91 % | held-out |
 | Fleetwood Mac — Dreams | TikTok UGC (Sep–Oct 2020) | 2020-10 | exo. (signal) | 42 % | held-out |
