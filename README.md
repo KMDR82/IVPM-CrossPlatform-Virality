@@ -89,7 +89,7 @@ Place the four CSV files in `data/` and set `OUT = "./results"` in Cell 1.
 
 ## Citation
 
-If you use this code or data, please cite the accompanying paper (IEEE Access, under review).
+If you use this code or data, please cite the accompanying paper.
 
 ## License
 
